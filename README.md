@@ -16,7 +16,7 @@ Implements secure authentication using JSON Web Tokens for user login and author
 - Database: MongoDB - a NoSQL database for storing user information and articles.
 - Authentication: Utilizes JWT (JSON Web Tokens) for secure login and authorization.
 ## Setup and Installation
-- Clone the repository: `git clone `
+- Clone the repository: `git clone https://github.com/ABHAY743-pixel/Connect.git`
 - Navigate to the project directory: `cd connect`
 ### Install dependencies for the frontend and backend:
 - Frontend: `cd client && run npm install`
